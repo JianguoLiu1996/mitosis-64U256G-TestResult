@@ -297,7 +297,7 @@ function startMysqlWithPageReplication(){
 function alltest(){
 	start_time=$(date +%s)  # script start run time
 	
-	startMysql
+#	startMysql
 	#startMysqlWithPageReplication
 	preparedata
 	
